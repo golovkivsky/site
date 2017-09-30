@@ -1,0 +1,42 @@
+div{
+	outline:1px solid black;
+	
+}
+
+.header{
+	color:red;
+	background-color: gray;
+}
+.header:after{
+	display:block;
+	clear:both;
+	content:"";
+}
+.logo{
+	width:25%;
+	float:left;
+}
+.top-menu{
+	width:75%;
+	float:left;
+}
+/*.clear{
+	clear:both;
+}*/
+.content{
+	color:red;
+	background-color:green;
+}
+.content:after{
+	display:block;
+	clear:both;
+	content:"";
+}
+.col-1-4{
+	width:25%;
+	float:left;
+}
+.col-2-4{
+	width:50%;
+	float:left;
+}

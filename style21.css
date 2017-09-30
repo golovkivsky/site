@@ -1,0 +1,74 @@
+body{
+margin:0;
+padding:0;
+}
+body{
+	font-size:30px;
+}
+div{
+	outline:1px solid white;
+}
+
+
+
+
+.header{
+	height: 15%;	
+	background:rgb(122, 201, 226);
+	
+}
+.row:after {
+	visibility: hidden;
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+.content{
+	height:85%;
+	width:55%;
+	float:left;
+	background:rgb(122, 201, 226);
+	
+}
+.sidebars{
+	width:45%;
+	float:left;
+	height:85%
+	
+	
+}
+.sidebar1{
+	height:80%;
+	width:33.33%;
+	float:left;
+	background:rgb(122, 201, 226);
+}
+
+.sidebar2{
+	height:80%;
+	width:33.33%;
+	float:left;
+	background:rgb(122, 201, 226);
+	
+	
+
+}
+
+.sidebar3{
+	height:80%;
+	width:33.33%;
+	float:left;
+	background:rgb(122, 201, 226);
+	
+
+}
+
+.footer{
+	height: 20%;
+	background:rgb(122, 201, 226);
+	
+	
+}
+
